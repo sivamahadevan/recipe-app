@@ -1,0 +1,20 @@
+{
+  "name": "gayathri_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scraper.js",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "express": "^4.14.0",
+    "flickrapi": "^0.6.0",
+    "randomstring": "^1.1.5",
+    "request": "^2.79.0",
+    "sqlite3": "^3.1.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Siva Mahadevan",
+  "license": "ISC"
+}

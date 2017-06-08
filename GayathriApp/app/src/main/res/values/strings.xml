@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Eat Real Sh*t</string>
+    <string name="title_activity_recipe_detail">RecipeDetailActivity</string>
+    <string name="action_settings">Settings</string>
+</resources>
